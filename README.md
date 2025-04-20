@@ -16,7 +16,7 @@ cd cinematic-movie-app-flutter
 ```bash
 flutter pub get
 ```
-### 3. Add your API key into /lib/providers/cinematic_provider file
+### 3. Add your API key into /lib/data/datasources/film_remote_datasources.dart file
 ```bash
 apiKey = 'YOUR_API_KEY';
 ```
